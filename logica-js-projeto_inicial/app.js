@@ -1,13 +1,13 @@
-alert("Olá Mundo");
-alert("Bem vindo ao jogo do Numero Secreto")
-let numeroSecreto = 45;
-console.log(numeroSecreto)
-let chute = prompt("Escolha um número entre 1 e 50");
-if (chute == numeroSecreto) {
-    alert(`Isso ai! Você descobriu o número secreto ${numeroSecreto}`);
-} else {
-    alert("Você errou :(")
-}é
+//alert("Olá Mundo");
+//alert("Bem vindo ao jogo do Numero Secreto")
+//let numeroSecreto = 45;
+//console.log(numeroSecreto)
+//let chute = prompt("Escolha um número entre 1 e 50");
+//if (chute == numeroSecreto) {
+//    alert(`Isso ai! Você descobriu o número secreto ${numeroSecreto}`);
+//} else {
+//    alert("Você errou :(")
+//}é
 
 //1// alert("Boas Vindas ao nosso site!");
 //2// let nome = "Lua";
@@ -24,4 +24,20 @@ if (chute == numeroSecreto) {
 //    alert("Maior de 18 pode tirar habilitação")
 //} 
 
+
+//1//
+//let diaSemana = prompt("Qual o dia da semana?");
+//diaSemana = diaSemana.toLowerCase();
+//
+//let diasValidos = ["segunda", "terça", "quarta", "quinta", "sexta", "sabado", "domingo"];
+//
+//if (diasValidos.includes(diaSemana)) {
+//    if (diaSemana === "sabado" || diaSemana === "domingo") {
+//        alert("Bom fim de semana!");
+//    } else {
+//        alert("Boa Semana");
+//    }
+//} else {
+//    alert("Dia inválido, por favor insira um dia da semana válido.");
+//}
 
